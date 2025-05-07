@@ -20,3 +20,4 @@ A simple browser-based Pac-Man game built with **HTML**, **CSS**, and **JavaScri
 ### 1. Clone or Download the Repository
 
 ```bash
+https://github.com/r8ck0/Pacman.git
